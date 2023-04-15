@@ -1,7 +1,8 @@
-Blog Project
+#Blog Project
+
 This is a simple blog project built using Laravel. It allows users to create, edit, and delete blog posts and categories. It also includes authentication and authorization for users with different roles.
 
-Installation
+I##nstallation
 Clone the repository: git clone https://github.com/yourusername/blog.git
 Install dependencies: composer install
 Create a new .env file by copying the .env.example file and filling in your database details: cp .env.example .env
@@ -9,10 +10,11 @@ Generate a new application key: php artisan key:generate
 Run database migrations: php artisan migrate
 Optionally, seed the database with sample data: php artisan db:seed
 Start the development server: php artisan serve
-Usage
+
+##Usage
 You can access the blog project by visiting http://localhost:8000 in your web browser.
 
-Authentication
+##Authentication
 The blog project includes authentication and authorization for users with different roles. The available roles are:
 
 admin: Has full access to all features.
@@ -23,7 +25,7 @@ Email: admin@example.com
 Password: password
 You can also register a new user account by clicking the "Register" link on the login page.
 
-Creating a Blog Post
+##Creating a Blog Post
 To create a new blog post, click the "New blog" button on the home page or in the navigation bar. Fill in the title, content, and category fields, and click "Create" to save the post.
 
 Editing a Blog Post
