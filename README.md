@@ -16,6 +16,7 @@ To use this project, follow these steps:
 
 1. Open the application in your browser: `http://localhost:8000`
 2. admin email=test@gmail.com, password=11111111
+3. normal user, email=dhakal@gmail.com, password=11111111
 
 If you have any issues or questions, please contact us at support@your-company.com.
 
