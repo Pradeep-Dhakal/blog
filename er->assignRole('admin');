@@ -1,0 +1,13 @@
+[90m= [39m[34;4mApp\User[39;24m {#7001
+    [34mid[39m: [35m1[39m,
+    [34mname[39m: "[32mpradeep[39m",
+    [34memail[39m: "[32mdhakal@gmail.com[39m",
+    [34memail_verified_at[39m: [36mnull[39m,
+    #[33mpassword[39m: "[32m$2y$10$Dksnp1CWTufmVh9wH.soleDlf3n75kQ/Gj/wPEsGRrzXihx/aWu1q[39m",
+    #[33mremember_token[39m: [36mnull[39m,
+    [34mcreated_at[39m: "[32m2023-04-15 05:35:10[39m",
+    [34mupdated_at[39m: "[32m2023-04-15 05:35:10[39m",
+    [34mphone[39m: "[32m9861893027[39m",
+    [34mgender[39m: "[32mmale[39m",
+  }
+
