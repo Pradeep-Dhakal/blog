@@ -15,6 +15,7 @@ Note: You may need to configure some environment variables before running the ap
 To use this project, follow these steps:
 
 1. Open the application in your browser: `http://localhost:8000`
+2. admin email=test@gmail.com
 
 If you have any issues or questions, please contact us at support@your-company.com.
 
